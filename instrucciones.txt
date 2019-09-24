@@ -1,0 +1,8 @@
+1.- descomprimir y Enviar la carpeta Muebles al directorio de AndroidStudioProjects C:\Users\******\AndroidStudioProjects.
+2.- enviar los archivos php (Register.php y Login.php) al directorio raiz de localhost.
+3.- crear bd (la imagen de los campos se puede consultar en el dato adjunto).  
+4.- en la clase "RegisterRequest" cambiar direccion ip por la que se este conectado donde se corra el project (referencia en imagen ip). 
+
+
+
+Nora: en debug.rar esta la apk
